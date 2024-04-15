@@ -8,6 +8,46 @@ Author : Sam De Wispelaere
 3. WPF
     - In the wpf there are 2 different windows there is the main window where u can calculate the fractions and there is also a second window about with some information on. There is also some code behinde these 2 windows.
 
+## Setup and usage
+To simply use the app without downloading any app follow this step by step guid.
+1. Download everythinh in the WPFFractions map
+2. Go to WPFFractions > bin > Debug > net6.0-windows 
+3. Once u are in the net6.0-windows file u need to open the WpfFractions.exe
+
+If u want the full code ect. Follow these steps.
+### Step-by-Step Guide to Utilize the Solution and Perform Unit Tests
+
+#### Install Visual Studio:
+
+1. Follow [this link](https://visualstudio.microsoft.com/vs/community/) for a detailed guide on installing Visual Studio Community edition.
+
+#### Open the Project Solution:
+
+1. After installation, open Visual Studio.
+2. Navigate to **File > Open > Project/Solution**.
+3. Choose the `FractionsApp.sln` file and open it.
+
+#### Build the Solution:
+
+1. Once the solution is loaded, build it to ensure all dependencies are resolved.
+2. Right-click on `FractionsConsoleApp` in the Solution Explorer.
+3. Select **Build** or **Rebuild** to compile the solution.
+
+#### Configure Startup Projects:
+
+1. Right-click on the solution in the Solution Explorer.
+2. Go to **Set Startup Projects**.
+3. Choose either single or multiple startup projects based on your requirements:
+   - **Single startup project**: Run either the Console Application or the Windows Application.
+   - **Multiple startup projects**: Run both the Console Application and the Windows Application simultaneously.
+
+#### Run xUnit Tests:
+
+1. Locate the `FractionsUnitTest` project in the Solution Explorer.
+2. Right-click on it.
+3. Select **Run Tests** to execute the unit tests.
+
+
 ## Unit test 
 - TestAdd: Tests the addition operation between two fractions.
 - TestSubtract: Tests the subtraction operation between two - fractions.
