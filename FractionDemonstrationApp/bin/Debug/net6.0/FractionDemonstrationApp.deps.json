@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "FractionDemonstrationApp/1.0.0": {
+        "dependencies": {
+          "FractionLibrary": "1.0.0"
+        },
+        "runtime": {
+          "FractionDemonstrationApp.dll": {}
+        }
+      },
+      "FractionLibrary/1.0.0": {
+        "runtime": {
+          "FractionLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FractionDemonstrationApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FractionLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

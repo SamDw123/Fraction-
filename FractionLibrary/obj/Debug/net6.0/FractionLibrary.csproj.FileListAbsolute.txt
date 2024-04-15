@@ -1,0 +1,11 @@
+C:\school\introduction to programming\Evaluaties\FractionLibrary\FractionLibrary\bin\Debug\net6.0\FractionLibrary.deps.json
+C:\school\introduction to programming\Evaluaties\FractionLibrary\FractionLibrary\bin\Debug\net6.0\FractionLibrary.dll
+C:\school\introduction to programming\Evaluaties\FractionLibrary\FractionLibrary\bin\Debug\net6.0\FractionLibrary.pdb
+C:\school\introduction to programming\Evaluaties\FractionLibrary\FractionLibrary\obj\Debug\net6.0\FractionLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\school\introduction to programming\Evaluaties\FractionLibrary\FractionLibrary\obj\Debug\net6.0\FractionLibrary.AssemblyInfoInputs.cache
+C:\school\introduction to programming\Evaluaties\FractionLibrary\FractionLibrary\obj\Debug\net6.0\FractionLibrary.AssemblyInfo.cs
+C:\school\introduction to programming\Evaluaties\FractionLibrary\FractionLibrary\obj\Debug\net6.0\FractionLibrary.csproj.CoreCompileInputs.cache
+C:\school\introduction to programming\Evaluaties\FractionLibrary\FractionLibrary\obj\Debug\net6.0\FractionLibrary.dll
+C:\school\introduction to programming\Evaluaties\FractionLibrary\FractionLibrary\obj\Debug\net6.0\refint\FractionLibrary.dll
+C:\school\introduction to programming\Evaluaties\FractionLibrary\FractionLibrary\obj\Debug\net6.0\FractionLibrary.pdb
+C:\school\introduction to programming\Evaluaties\FractionLibrary\FractionLibrary\obj\Debug\net6.0\ref\FractionLibrary.dll
